@@ -21,7 +21,7 @@ Repositorio con mis ejercicios de SQL, organizados por tema y nivel de dificulta
 | `tienda_practica` | Tienda con clientes, productos y ventas | `bases-de-datos/tienda_practica.sql` |
 | `tech_store_db` | Tienda de tecnología con detalle de ventas (4 tablas) | `bases-de-datos/tech_store_db.sql` |
 | `cine_analytics_db` | Plataforma de cine con directores, películas, usuarios y visualizaciones | `bases-de-datos/cine_analytics_db.sql` |
-
+| `aseguradora_db` | Aseguradora con clientes, ramos, pólizas y siniestros | `bases-de-datos/aseguradora_db.sql` |
 Algunos ejercicios usan las bases `netflixdb` y `plataforma_educativa_db`, cuyos scripts de creación no están incluidos en este repositorio.
 
 ## Cómo ejecutar
